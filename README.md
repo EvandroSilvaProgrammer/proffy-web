@@ -142,32 +142,3 @@ This project is under license [MIT](./LICENSE).
 
 Made with ❤️ by Evandro Silva AKA SkeBug 👋🏽 [Get int touch!](https://www.linkedin.com/in/evandrosilva-programmer/)
 
----
-
-## 🦸 Author
-
-<a href="https://github.com/EvandroSilvaProgrammer">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67426023?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Evandro Silva AKA SkeBug</b></sub></a> <a href="https://github.com/EvandroSilvaProgrammer" title="EvandroSilva">🇦🇴</a>
- <br /> <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandrosilva-programmer/)](https://www.linkedin.com/in/evandrosilva-programmer/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/evandrosilva.programmer)](https://www.facebook.com/evandrosilva.programmer)
-
-[![Gmail Badge](https://img.shields.io/badge/-evandrosilva.programmer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:evandrosilva.programmer@gmail.com)
-
----
-
-## 📝 License
-
-This project is under license [MIT](./LICENSE).
-
-Made with ❤️ by Evandro Silva AKA SkeBug 👋🏽 [Get int touch!](https://www.linkedin.com/in/evandrosilva-programmer/)
-
----
-
-##  README Versions
-
-[Português 🇦🇴](./README-pt.md)  |  [English 🇺🇸](./README.md)
