@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EvandroSilvaProgrammer/proffy-web-api?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EvandroSilvaProgrammer/proffy-web?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EvandroSilvaProgrammer/proffy-web-api">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EvandroSilvaProgrammer/proffy-web">
 
   <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EvandroSilvaProgrammer/proffy-web-api">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EvandroSilvaProgrammer/proffy-web">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
